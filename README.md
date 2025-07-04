@@ -35,8 +35,8 @@ A fully responsive scientific calculator built with Python and Tkinter, featurin
 3. No additional dependencies required (uses built-in Tkinter)
 
 ```bash
-git clone https://github.com/AbderrahmanAMD/abdo-calculator.git
+git clone https://github.com/AbderrahmanAMD/calculator-by-python.git
 
-cd abdo-calculator
+cd calculator-by-python
 
 
