@@ -40,16 +40,3 @@ git clone https://github.com/AbderrahmanAMD/abdo-calculator.git
 cd abdo-calculator
 
 
-### Notes:
-1. Replace placeholder text (like `yourusername`) with your actual details
-2. Add actual screenshots by:
-   - Taking screenshots of your calculator
-   - Saving as `screenshot.png` in the project folder
-   - Uncommenting the image line
-
-3. For a more professional touch, you could add:
-   - Badges (e.g., Python version, license)
-   - CI/CD status if you set up automated testing
-   - More detailed development documentation
-
-4. The markdown assumes your main file is named `calculator.py` - adjust if you used a different name.
